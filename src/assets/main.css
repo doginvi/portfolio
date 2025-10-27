@@ -1,0 +1,6 @@
+@import './base.css';
+
+a, li {
+  text-decoration: none;
+  list-style: none;
+}
